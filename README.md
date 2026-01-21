@@ -26,8 +26,10 @@ Build a modern, fully responsive landing page using HTML, CSS, and JavaScript wi
 
 ## 🔹 Author
 Aman Gupta
+<br>
 LinkedIn:-https://www.linkedin.com/in/aman-gupta-9553073a2
-GitHub:-
+<br>
+GitHub:-https://github.com/AmanThinks
 
 ---
 
