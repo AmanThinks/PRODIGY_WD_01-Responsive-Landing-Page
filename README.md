@@ -1,0 +1,30 @@
+# PRODIGY_WD_01 – Responsive Landing Page
+
+This project is part of my **Web Development Internship at Prodigy InfoTech**.
+
+## 🔹 Task Description
+Build a modern, fully responsive landing page using HTML, CSS, and JavaScript with:
+- Fixed navbar with scroll effects
+- Responsive hamburger menu
+- Smooth scrolling
+- Modern UI & animations
+
+## 🔹 Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (DOM Manipulation)
+
+## 🔹 Features
+- Fully responsive design
+- Mobile-friendly navigation
+- Smooth scrolling and hover animations
+- Clean and modern UI
+
+## 🔹 Live Preview
+(You can add GitHub Pages link here later)
+
+---
+
+**Internship:** Prodigy InfoTech  
+**Track:** Web Development  
+**Task:** 01
